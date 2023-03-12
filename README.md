@@ -1,4 +1,7 @@
-### Hi there 👋
+### Olá👋
+Sou um Dev Full-Stack com foco em Front-End
+
+🌱 Estudando TypeScript e .Net
 
 <!--
 **LucasSantana95/LucasSantana95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
