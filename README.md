@@ -14,4 +14,4 @@ Sou um Dev Full-Stack com foco em Front-End
 ![NodeJS Badge](https://img.shields.io/badge/-Node.js-green) 
 
 <p> <img src="https://github-readme-stats.vercel.app/api?username=LucasSantana95&show_icons=true&theme=radical" alt="LucasSantana95" /> </p>
-<p> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSantana95&layout=compact&langs_counts=16&theme=dracula /> </p>
+<p> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSantana95&layout=compact&langs_counts=16&theme=dracula" /> </p>
