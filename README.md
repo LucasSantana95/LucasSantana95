@@ -16,6 +16,6 @@ Sou um Dev Full-Stack com foco em Front-End
 ![ReactJS Badge](https://img.shields.io/badge/-ReactJS-blue)
 ![NodeJS Badge](https://img.shields.io/badge/-Node.js-green) 
 <div>
-  <img height='200px' width='500px' src="https://github-readme-stats.vercel.app/api?username=LucasSantana95&show_icons=true&theme=radical" alt="LucasSantana95" />
-  <img height='200px' width='400px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSantana95&layout=compact&langs_counts=16&theme=dracula" />
+  <img height='200px' width='400px' src="https://github-readme-stats.vercel.app/api?username=LucasSantana95&show_icons=true&theme=radical" alt="LucasSantana95" />
+  <img height='200px' width='300px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSantana95&layout=compact&langs_counts=16&theme=dracula" />
 </div>
