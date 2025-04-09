@@ -7,8 +7,6 @@
 ### Olá👋
 Sou um Dev Full-Stack com foco em Front-End
 
-🌱 Estudando TypeScript e .Net
-
 
 ![HTML Badge](https://img.shields.io/badge/-HTML-orange)
 ![CSS Badge](https://img.shields.io/badge/-CSS-blue)
